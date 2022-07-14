@@ -14,8 +14,8 @@ Redirect connections from different ports at one ipv4 address to unique random i
 ## Installation
 [Video tutorial](https://youtu.be/EKBJHSTmT4w), used as Centos setup
 
-1. `bash <(curl -s "bash <(curl -s "https://raw.githubusercontent.com/duysy/ipv4-ipv6-proxy/master/scripts/install.sh")")` ## none auth
-1. `bash <(curl -s "bash <(curl -s "https://raw.githubusercontent.com/dukaev/ipv6_proxy/master/scripts/install.sh")")` ## auth
+1. `bash <(curl -s "https://raw.githubusercontent.com/duysy/ipv4-ipv6-proxy/master/scripts/install.sh")` ## none auth
+2. `bash <(curl -s "https://raw.githubusercontent.com/dukaev/ipv6_proxy/master/scripts/install.sh")` ## auth
 
 
 
